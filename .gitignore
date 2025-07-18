@@ -16,8 +16,6 @@ node_modules
 Thumbs.db
 
 # Env
-.env
-.env.*
 !.env.ci
 !.env.example
 !.env.test
@@ -41,3 +39,4 @@ scripts/exportDB.ts
 # ESLint
 .eslintcache
 src/routes/(secured)/chat/instructions.md
+config.bat
